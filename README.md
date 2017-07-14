@@ -1,4 +1,4 @@
-Unity SDK for Game Maker 8.1
+HiveMP SDK for Game Maker 8.1
 ===============================
 
 This is the integrated Game Maker 8.1 SDK for HiveMP.
